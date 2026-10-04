@@ -1,6 +1,6 @@
 # Orange Pi Zero 3 iStoreOS ImageBuilder
 
-面向 **Orange Pi Zero 3 (Allwinner H618)** 的社区版 iStoreOS ImageBuilder。
+面向 **Orange Pi Zero 3 (Allwinner H618)** 的自用 iStoreOS ImageBuilder。
 
 该 ImageBuilder 基于 iStoreOS 24.10 系列源码制作，针对 Orange Pi Zero 3 完成了启动、YT8531C 千兆网口、三分区 Overlay、旁路由首启配置等适配，并内置当前已验证固件所需的软件包及依赖。
 
